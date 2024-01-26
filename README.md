@@ -1,5 +1,5 @@
 ### Hi there 👋
-###😄 Pronouns: Ele/dele
+### 😄 Pronouns: Ele/dele
 <!--
 
 Here are some ideas to get you started:
