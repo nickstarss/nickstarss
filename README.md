@@ -1,7 +1,7 @@
 <h1>👋 Hi, my name is Nick!</h1>
 <ul>
-  <li>🥝⋆｡˚★<strong>Linguagens:</strong> C++, JavaScript, Java, Python</li>
-  <li>🌱 ₊˚✧<strong>Pronomes:</strong> Ele/dele</li>
+  <li>🥝⋆｡˚★ <strong>Linguagens:</strong> C++, JavaScript, Java, Python</li>
+  <li>🌱 ₊˚✧ <strong>Pronomes:</strong> Ele/dele</li>
   <li>🍵°`~★ Técnico em Desenvolvimento de Sistemas</li>
   <li>๋࣭ ⭑⚝ <strong>Fun Fact:</strong></li>
 </ul>
