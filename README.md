@@ -3,7 +3,7 @@
   <li>🥝⋆｡˚★ <strong>Linguagens:</strong> C++, JavaScript, Java, Python</li>
   <li>🌱 ₊˚✧ <strong>Pronomes:</strong> Ele/dele</li>
   <li>🍵°`~★ <strong>Técnico em Desenvolvimento de Sistemas</strong></li>
-  <li>๋࣭ ⭑⚝ <strong>Fun Fact:</strong> Adoro estrelas</li>
+  <li>๋࣭ ⭑⚝ <strong>Fun Fact:</strong> Gosto de criar jogos</li>
 </ul>
 </ul>
 
