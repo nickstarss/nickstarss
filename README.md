@@ -1,5 +1,5 @@
 <h1>👋 Hi, my name is Nick!</h1>
-📗*<strong>Linguagens:</strong> C++, JavaScript, Java, Python
+* 📗<strong>Linguagens:</strong> C++, JavaScript, Java, Python
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nickstarss&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
