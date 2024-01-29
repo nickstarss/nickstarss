@@ -1,8 +1,8 @@
 ### 👋 Hi, my name is Nick!
-[![card](https://github-readme-stats.vercel.app/api?username=nickstarss&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=nickstarss&theme=tokyonight&show_icons=true" alt="ilustração do status do github">
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nickstarss&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-
+https://github-readme-stats.vercel.app/api?username=nickstarss&theme=tokyonight&show_icons=true
 
 
 <!--
