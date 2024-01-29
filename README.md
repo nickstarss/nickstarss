@@ -1,5 +1,6 @@
-### Hi there 👋
-### 😄 Pronouns: Ele/dele
+### Hi, my name is Nick!
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nickstarss&hide=html&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 
 Here are some ideas to get you started:
