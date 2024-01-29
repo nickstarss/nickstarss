@@ -2,7 +2,7 @@
 <ul>
   <li>📗 <strong>Linguagens:</strong> C++, JavaScript, Java, Python</li>
   <li>🌱 <strong>Pronomes:</strong> Ele/dele</li>
-  <li>🌱 Técnico em Desenvolvimento de Sistemas</li>
+  <li>🍵 Técnico em Desenvolvimento de Sistemas</li>
 </ul>
 </ul>
 
