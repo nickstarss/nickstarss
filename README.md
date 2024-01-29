@@ -1,10 +1,11 @@
 <h1>👋 Hi, my name is Nick!</h1>
 <p>📗<strong>Linguagens:</strong> C++, JavaScript, Java, Python</p>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nickstarss&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <style>
   background-color: black;
   color: white;
 </style>
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=nickstarss&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 
 Here are some ideas to get you started:
